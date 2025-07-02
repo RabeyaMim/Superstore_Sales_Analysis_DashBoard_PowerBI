@@ -54,6 +54,8 @@ To contribute to the success of a business by leveraging data analysis technique
 This dashboard reveals critical trends in sales, profit, and customer behavior — enabling smarter decisions in regional focus, payment optimization, and seasonal planning. Power BI's interactive visuals made the data exploration intuitive and impactful.
 
 ---
+![image alt](https://github.com/RabeyaMim/Superstore_Sales_Analysis_DashBoard_PowerBI/blob/e08da455a10091bb06bf50eb48c3b43d4bb55798/1.png)
+![image alt](https://github.com/RabeyaMim/Superstore_Sales_Analysis_DashBoard_PowerBI/blob/e08da455a10091bb06bf50eb48c3b43d4bb55798/2.png)
 
 ## Tools Used
 - Power BI
